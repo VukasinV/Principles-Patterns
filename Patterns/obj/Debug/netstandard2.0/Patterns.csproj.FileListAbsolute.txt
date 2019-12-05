@@ -1,0 +1,8 @@
+C:\Users\vvranic\Documents\Projects\.NET Core\Principles&Patterns\Patterns\bin\Debug\netstandard2.0\Patterns.deps.json
+C:\Users\vvranic\Documents\Projects\.NET Core\Principles&Patterns\Patterns\bin\Debug\netstandard2.0\Patterns.dll
+C:\Users\vvranic\Documents\Projects\.NET Core\Principles&Patterns\Patterns\bin\Debug\netstandard2.0\Patterns.pdb
+C:\Users\vvranic\Documents\Projects\.NET Core\Principles&Patterns\Patterns\obj\Debug\netstandard2.0\Patterns.csprojAssemblyReference.cache
+C:\Users\vvranic\Documents\Projects\.NET Core\Principles&Patterns\Patterns\obj\Debug\netstandard2.0\Patterns.AssemblyInfoInputs.cache
+C:\Users\vvranic\Documents\Projects\.NET Core\Principles&Patterns\Patterns\obj\Debug\netstandard2.0\Patterns.AssemblyInfo.cs
+C:\Users\vvranic\Documents\Projects\.NET Core\Principles&Patterns\Patterns\obj\Debug\netstandard2.0\Patterns.dll
+C:\Users\vvranic\Documents\Projects\.NET Core\Principles&Patterns\Patterns\obj\Debug\netstandard2.0\Patterns.pdb
