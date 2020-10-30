@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vvranic\\Documents\\Projects\\.NET Core\\Principles&Patterns\\Principles\\Principles.csproj": {}
+    "c:\\Users\\vvranic\\Documents\\Projects\\.NET Core\\Principles&Patterns\\Principles\\Principles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vvranic\\Documents\\Projects\\.NET Core\\Principles&Patterns\\Principles\\Principles.csproj": {
+    "c:\\Users\\vvranic\\Documents\\Projects\\.NET Core\\Principles&Patterns\\Principles\\Principles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vvranic\\Documents\\Projects\\.NET Core\\Principles&Patterns\\Principles\\Principles.csproj",
+        "projectUniqueName": "c:\\Users\\vvranic\\Documents\\Projects\\.NET Core\\Principles&Patterns\\Principles\\Principles.csproj",
         "projectName": "Principles",
-        "projectPath": "C:\\Users\\vvranic\\Documents\\Projects\\.NET Core\\Principles&Patterns\\Principles\\Principles.csproj",
+        "projectPath": "c:\\Users\\vvranic\\Documents\\Projects\\.NET Core\\Principles&Patterns\\Principles\\Principles.csproj",
         "packagesPath": "C:\\Users\\vvranic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vvranic\\Documents\\Projects\\.NET Core\\Principles&Patterns\\Principles\\obj\\",
+        "outputPath": "c:\\Users\\vvranic\\Documents\\Projects\\.NET Core\\Principles&Patterns\\Principles\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

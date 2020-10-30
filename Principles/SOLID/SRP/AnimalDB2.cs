@@ -2,7 +2,7 @@ namespace Principles.SOLID.SRP
 {
     public class AnimalDB2
     {
-        public Animal2 GetAnimal()
+        public void GetAnimal()
         {
             System.Console.WriteLine("Gets animal from DB");
         }
