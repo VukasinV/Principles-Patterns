@@ -4,10 +4,10 @@ namespace Principles.SOLID.SRP
     /// This Animal class has 2 responsibilities. It keeps animal properties and saves Animal to database
     /// 
     /// </summary>
-    public class Animal_1
+    public class Animal1
     {
         public string Name { get; set; }
-        public Animal_1(string name)
+        public Animal1(string name)
         {
             Name = name;
         }

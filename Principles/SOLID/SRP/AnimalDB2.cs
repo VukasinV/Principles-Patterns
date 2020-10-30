@@ -1,8 +1,8 @@
 namespace Principles.SOLID.SRP
 {
-    public class AnimalDB_2
+    public class AnimalDB2
     {
-        public Animal_2 GetAnimal()
+        public Animal2 GetAnimal()
         {
             System.Console.WriteLine("Gets animal from DB");
         }
